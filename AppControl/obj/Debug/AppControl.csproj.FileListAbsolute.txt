@@ -1,0 +1,13 @@
+C:\Users\Dietrich\Downloads\source\source\AppControl\bin\Debug\AppControl.dll
+C:\Users\Dietrich\Downloads\source\source\AppControl\bin\Debug\AppControl.pdb
+C:\Users\Dietrich\Downloads\source\source\AppControl\obj\Debug\AppControl.ApplicationControl.resources
+C:\Users\Dietrich\Downloads\source\source\AppControl\obj\Debug\AppControl.csproj.GenerateResource.Cache
+C:\Users\Dietrich\Downloads\source\source\AppControl\obj\Debug\AppControl.dll
+C:\Users\Dietrich\Downloads\source\source\AppControl\obj\Debug\AppControl.pdb
+D:\TFS-Private\freeasyExplorer\source\AppControl\bin\Debug\AppControl.dll
+D:\TFS-Private\freeasyExplorer\source\AppControl\bin\Debug\AppControl.pdb
+D:\TFS-Private\freeasyExplorer\source\AppControl\obj\Debug\AppControl.csprojResolveAssemblyReference.cache
+D:\TFS-Private\freeasyExplorer\source\AppControl\obj\Debug\AppControl.ApplicationControl.resources
+D:\TFS-Private\freeasyExplorer\source\AppControl\obj\Debug\AppControl.csproj.GenerateResource.Cache
+D:\TFS-Private\freeasyExplorer\source\AppControl\obj\Debug\AppControl.dll
+D:\TFS-Private\freeasyExplorer\source\AppControl\obj\Debug\AppControl.pdb
